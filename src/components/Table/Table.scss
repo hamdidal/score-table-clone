@@ -1,0 +1,16 @@
+.match-info{
+    &__title {
+        background: #404040;
+        width: max-content;
+        border-radius: 1rem;
+        padding-inline: 1rem;
+        color: white;
+    }
+    &__time {
+        background: #404040;
+        padding: 0.5rem 1rem;
+        color: white;
+        font-weight: 500;
+
+    }
+}
